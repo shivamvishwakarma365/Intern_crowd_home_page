@@ -3,7 +3,7 @@ Task 1
 
 Intern Cloud Webpage
 This is a simple webpage design for Intern Cloud, a platform offering internship programs in software development.
-
+//
 Features
 •	A navigation bar with links to HOME, ABOUT, INTERNSHIPS, and CONTACT pages.
 •	A search bar for users to easily find what they're looking for.
