@@ -5,7 +5,8 @@ Intern Cloud Webpage
 This is a simple webpage design for Intern Cloud, a platform offering internship programs in software development.
 //
 Features
-•	A navigation bar with links to HOME, ABOUT, INTERNSHIPS, and CONTACT pages.//
+•	A navigation bar with links to HOME, ABOUT, INTERNSHIPS, and CONTACT pages.
+//
 •	A search bar for users to easily find what they're looking for.
 •	A login form with an option to sign up if the user doesn't have an account.
 •	Social media login options using Facebook, Instagram, Twitter, Google, and Skype logos.
